@@ -17,4 +17,3 @@ print(q,type(q))
 q=bool(q)
 print(q,type(q))
 
-#1.while converting int to bool for all
